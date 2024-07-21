@@ -1,0 +1,12 @@
+[
+    {
+      "name": "ColossalCheatMenuV2",
+      "author": "ColossusYTTV",
+      "version": "prideupd",
+      "dependencies": [
+      ],
+      "git_path": "lunar-x86/LunarModInfo/blob/main/ColossalCheatMenuV2.zip/",
+      "group": "Gameplay",
+      "download_url": "https://github.com/lunar-x86/LunarModInfo/raw/main/ColossalCheatMenuV2.zip"
+    }
+]
