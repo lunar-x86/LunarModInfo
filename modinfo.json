@@ -4,6 +4,7 @@
       "author": "ColossusYTTV",
       "version": "prideupd",
       "dependencies": [
+          "Utilla"
       ],
       "git_path": "lunar-x86/LunarModInfo/blob/main/ColossalCheatMenuV2.zip/",
       "group": "Gameplay",
